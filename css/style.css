@@ -1207,6 +1207,7 @@ p{
      border-radius:50px;
      box-shadow: 3px 3px 0px rgba(103, 102, 102, 0.2);
      line-height: 16px;
+     background-color: #F69753;
 }
  .owl-prev{
     left: -20px;
@@ -2085,6 +2086,9 @@ p{
      .navbar-nav li {
          float: none;
          top: 16px;
+    }
+    .color1 {
+        background-color: #F69753;
     }
      .navbar-nav li > .dropdown-menu {
          border: 0;
